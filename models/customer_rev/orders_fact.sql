@@ -1,4 +1,4 @@
-
+{{config(mateialized='table')}}
 
 SELECT
     O.OrderID,
